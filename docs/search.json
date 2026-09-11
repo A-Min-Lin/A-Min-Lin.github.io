@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Min Lin",
+    "objectID": "posts/first-weeks/index.html",
+    "href": "posts/first-weeks/index.html",
+    "title": "My first weeks in MDS",
     "section": "",
-    "text": "I am from China and I did my undergraduate with major of both Statistics and English. I used to be a teacher for 2 years. I want to change my career through this project, learning and practicing more on coding and data analysis."
+    "text": "Orientation day on campus."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My first weeks in MDS\n\n\n\n\n\n\n\n\nSep 10, 2026\n\n\nMin Lin\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -28,17 +35,10 @@
     "text": "scnaksbch\nbcjkhbc About this site"
   },
   {
-    "objectID": "posts/first-weeks/index.html",
-    "href": "posts/first-weeks/index.html",
-    "title": "My first weeks in MDS",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Min Lin",
     "section": "",
-    "text": "Orientation day on campus."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "My first weeks in MDS\n\n\n\n\n\n\n\n\nSep 10, 2026\n\n\nMin Lin\n\n\n\n\n\nNo matching items"
+    "text": "I am from China and I did my undergraduate with major of both Statistics and English. I used to be a teacher for 2 years. I want to change my career through this project, learning and practicing more on coding and data analysis."
   }
 ]
