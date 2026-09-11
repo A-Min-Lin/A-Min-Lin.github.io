@@ -2,6 +2,7 @@
 title: "My first weeks in MDS"
 author: "Min Lin"
 date: 2026-09-10
+image: /images/orientation1.jpg
 ---
 ![Orientation day on campus.](../../images/orientation1.jpg)
 
