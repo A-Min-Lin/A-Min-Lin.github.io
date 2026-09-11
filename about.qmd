@@ -1,9 +1,13 @@
 ---
 title: "About"
 ---
-## chane
-chsbc
+## Education
+University of British Columbia | Vancouver, BC
+Master of data science | Sept 2026 - November 2027
 
-## scnaksbch
-bcjkhbc
-About this site
+Guangdong University of Foreign Studies  | Guangdong, China
+Bachelor of Economics Statistics | Sept 2020 - June 2024
+
+## Experience
+Math Teacher | XDF, New Oriental School | Jan 2025 - June 2026
+
