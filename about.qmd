@@ -2,11 +2,9 @@
 title: "About"
 ---
 ## Education
-University of British Columbia | Vancouver, BC
-Master of data science | Sept 2026 - November 2027
+Master of data science | Vancouver, BC | Sep 2026 - November 2027
 
-Guangdong University of Foreign Studies  | Guangdong, China
-Bachelor of Economics Statistics | Sept 2020 - June 2024
+Bachelor of Economics Statistics | Guangdong, China | Sep 2020 - June 2024
 
 ## Working Experience
 Teacher | XDF, New Oriental School, China|  Jan 2025 - June 2026
